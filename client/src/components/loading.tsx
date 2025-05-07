@@ -5,7 +5,7 @@ export function Waiting({ for: wait, children }: { for?: any, children?: React.R
         <>
             {!wait ?
                 <div className="w-full h-96 flex flex-col justify-center items-center mb-8 ani-show-fast">
-                    <ReactLoading type="cylon" color="#FC466B" />
+                    <ReactLoading type="cylon" color="#f7d0a6" />
                 </div>
                 : children}
         </>
