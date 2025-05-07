@@ -2,13 +2,13 @@
 
 /* cantarell-latin-400-normal */
 @font-face {
-  font-family: "Noto";
+  font-family: "Noto Serif";
   font-style: normal;
   font-display: auto;
   font-weight: 400;
-  src: url(/Rin/client/public/noto-sans-jp-v53-japanese-regular.woff2) format("woff2"),
-  url(/Rin/client/public/noto-sans-sc-v37-chinese-simplified_latin-regular.woff2) format("woff2"),
-  url(/Rin/client/public/noto-sans-tc-v36-chinese-traditional-regular.woff2) format("woff2");
+  src: url(/Rin/client/public/noto-serif-hk-v9-chinese-hongkong-600.woff2) format("woff2"),
+  url(/Rin/client/public/noto-serif-jp-v30-japanese-600.woff2) format("woff2"),
+  url(/Rin/client/public/noto-serif-sc-v31-chinese-simplified_latin-600.woff2) format("woff2");
   unicode-range: U+0000-00FF,        /* Basic Latin */
   U+0131, U+0152-0153,
   U+02BB-02BC, U+02C6, U+02DA, U+02DC,
